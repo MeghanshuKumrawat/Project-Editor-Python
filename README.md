@@ -31,4 +31,5 @@ python Project-Editor-Python.py
 ```
 
 # Output :-
-![Output image](https://github.com/MeghanshuKumrawat/Project-Editor-Python/blob/master/Screenshot (111))
+![Output image](https://github.com/MeghanshuKumrawat/Project-Editor-Python/blob/master/Screenshots/Screenshot%20(110).png)
+![Output image](https://github.com/MeghanshuKumrawat/Project-Editor-Python/blob/master/Screenshots/Screenshot%20(111).png)
